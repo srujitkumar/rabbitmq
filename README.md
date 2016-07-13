@@ -1,0 +1,2 @@
+# rabbitmq
+my rabbitmq tests
