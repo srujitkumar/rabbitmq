@@ -19,7 +19,7 @@ default['rabbitmq']['loopback_users'] = []
 default['rabbitmq']['cluster'] = true
 default['rabbitmq']['clustering']['enable'] = true
 default['rabbitmq']['clustering']['use_auto_clustering'] = true
-default['rabbitmq']['clustering']['cluster_name'] = 'RMQ_BDC_DEV_PCF_98'
+default['rabbitmq']['clustering']['cluster_name'] = 'RMQ01'
 default['rabbitmq']['clustering']['cluster_nodes'] = []
 
 # users
